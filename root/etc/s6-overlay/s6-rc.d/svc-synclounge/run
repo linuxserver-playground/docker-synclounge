@@ -1,4 +1,5 @@
 #!/usr/bin/with-contenv bash
+# shellcheck shell=bash
 
 if [ -n "${AUTH_LIST}" ]; then
     export authentication__mechanism='["plex"]'
