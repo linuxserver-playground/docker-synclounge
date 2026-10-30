@@ -14,6 +14,10 @@ upstream:
   sponsor:
   - name: SyncLounge
     url: http://docs.synclounge.tv/contributing/donating/
+  notes:
+    type: github_release
+    repo: synclounge/synclounge
+    tag: v${VERSION}
 
 release:
   branch: master
