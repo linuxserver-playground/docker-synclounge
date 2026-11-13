@@ -49,7 +49,7 @@ destroy                       1.2.0             npm
 dunder-proto                  1.0.1             npm                    
 ee-first                      1.1.1             npm                    
 emoji-regex                   8.0.0             npm                    
-encodeurl                     2.0.1             npm                    
+encodeurl                     2.0.3             npm                    
 engine.io                     6.6.11            npm                    
 engine.io-parser              5.2.3             npm                    
 engine.io-parser              UNKNOWN           npm   (+1 duplicate)   
@@ -113,7 +113,7 @@ negotiator                    0.6.3             npm
 netcat-openbsd                1.234.1-r0        apk                    
 nghttp2-libs                  1.70.0-r0         apk                    
 node-gyp-build                4.8.4             npm                    
-nodejs                        24.22.1-r1        apk                    
+nodejs                        24.22.3-r0        apk                    
 object-assign                 4.1.1             npm                    
 object-inspect                1.13.4            npm                    
 on-finished                   2.4.2             npm                    
