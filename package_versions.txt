@@ -50,7 +50,7 @@ dunder-proto                  1.0.1             npm
 ee-first                      1.1.1             npm                    
 emoji-regex                   8.0.0             npm                    
 encodeurl                     2.0.3             npm                    
-engine.io                     6.6.11            npm                    
+engine.io                     6.6.12            npm                    
 engine.io-parser              5.2.3             npm                    
 engine.io-parser              UNKNOWN           npm   (+1 duplicate)   
 es-define-property            1.0.1             npm                    
@@ -115,7 +115,7 @@ nghttp2-libs                  1.70.0-r0         apk
 node-gyp-build                4.8.4             npm                    
 nodejs                        24.22.3-r0        apk                    
 object-assign                 4.1.1             npm                    
-object-inspect                1.13.4            npm                    
+object-inspect                1.14.0            npm                    
 on-finished                   2.4.2             npm                    
 oniguruma                     6.9.10-r0         apk                    
 parseurl                      1.3.3             npm                    
@@ -157,7 +157,7 @@ type-is                       1.6.18            npm
 tzdata                        2026f-r0          apk                    
 undici-types                  8.9.0             npm                    
 unpipe                        1.0.0             npm                    
-utf-8-validate                6.0.6             npm                    
+utf-8-validate                6.1.0             npm                    
 utils-merge                   1.0.1             npm                    
 utmps-libs                    0.1.3.3-r0        apk                    
 uuid                          10.0.0            npm                    
